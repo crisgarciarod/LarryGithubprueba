@@ -2,4 +2,8 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Cristina García**, Git lover
+
+**Cristina García**, Git & Larry Potter lover
+
+
+
